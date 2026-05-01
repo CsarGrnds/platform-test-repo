@@ -3,3 +3,5 @@ variable "vpc_name" {
   type        = string
   default     = "example-vpc"
 }
+
+- Additional file contents omitted: 1
